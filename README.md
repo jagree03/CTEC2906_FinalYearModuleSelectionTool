@@ -2,7 +2,8 @@
 Final Year Module Selection Tool Project CTEC2906 - Object Oriented Development
 
 -------------------
--- Marked results --
+*Marked results & feedback*
+
 User Interface (UI): 24.00% -> A user interface exists for all three of the undeveloped forms, but does not provide a means of presenting or capturing all of the specified information, i.e. there are minor omissions.
 
 Resizing behaviour: 4.00% -> At least one area of the application resizes horizontally OR vertically.
